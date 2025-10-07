@@ -47,13 +47,12 @@ export default function GalleryPage() {
   ];
 
   const categories = [
-    { id: "all", name: "הכל" },
-    { id: "furniture", name: "ריהוט" },
-    { id: "kitchen", name: "מטבחים" },
-    { id: "wardrobe", name: "ארונות" },
-    { id: "woodwork", name: "עיבוד עץ" },
-    { id: "special", name: "מיוחדים" },
-    { id: "renovation", name: "שיפוצים" },
+    { id: "all", name: "הכל", count: 6 },
+    { id: "kitchen", name: "ארונות מטבח", count: 2 },
+    { id: "wardrobe", name: "ארונות בגדים", count: 1 },
+    { id: "furniture", name: "ריהוט מותאם", count: 1 },
+    { id: "woodwork", name: "עיבוד עץ", count: 1 },
+    { id: "special", name: "פרויקטים מיוחדים", count: 1 },
   ];
 
   const filteredImages =

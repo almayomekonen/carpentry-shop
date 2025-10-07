@@ -16,7 +16,6 @@ export default function Navigation({
 
   const navigationItems = [
     { name: "בית", href: "/" },
-    { name: "מוצרים", href: "/products" },
     { name: "אודות", href: "/about" },
     {
       name: "שירותים",
@@ -29,6 +28,7 @@ export default function Navigation({
       ],
     },
     { name: "גלריה", href: "/gallery" },
+    { name: "איך זה עובד", href: "/process" },
     { name: "צור קשר", href: "/contact" },
     { name: "הצעת מחיר", href: "/quote" },
   ];

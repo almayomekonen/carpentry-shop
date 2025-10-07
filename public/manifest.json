@@ -1,0 +1,20 @@
+{
+  "name": "מתאימים נגרות - נגר מקצועי בישראל",
+  "short_name": "מתאימים נגרות",
+  "description": "נגרות מקצועית בישראל - ארונות מטבח, ארונות בגדים וריהוט מותאם אישית",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "lifestyle", "home"],
+  "keywords": "נגרות, ארונות מטבח, ריהוט מותאם אישית, נגר בישראל"
+}
